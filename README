@@ -1,0 +1,7 @@
+Super Snape Box is a 2D, arcade-style platformer written in C++. It is heavily based off of Super Crate Box.
+How to play:
+	WAD- move/jump
+	Space- Cast spell
+	
+In order to get points, the player must grab boxes. Each box randomizes Snape's spell, which is essential
+for survival against the fire enemies.

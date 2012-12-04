@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<data>
+    <global width="1024" height="768" />
+    <scores best="11" start="0" />
+    <starthp hp="3" image="images\\health.png" />
+    <powerup x="512" y="492" />
+    <platforms>
+        <plat0 x="0.0" y="676.0" width="412" height="92" />
+        <plat1 x="600.0" y="676.0" width="424" height="92" />
+        <plat2 x="315.0" y="518.0" width="400" height="16" />
+        <plat3 x="-32.0" y="363.0" width="400" height="16" />
+        <plat4 x="692.0" y="363.0" width="400" height="16" />
+        <plat5 x="321.0" y="191.0" width="400" height="16" />
+    </platforms>
+    <firstenemy x="500.0" y="0.0" xvel="4" yvel="0" width="64" height="64" image="images\\globbly.l1.png" onscreen="true" hp="2" />
+    <ui>
+        <current l="196" t="720" r="282" b="904" />
+        <best l="786" t="716" r="854" b="900" />
+        <title l="64" t="64" r="800" b="512" />
+    </ui>
+</data>
