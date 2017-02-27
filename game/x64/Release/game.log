@@ -1,0 +1,8 @@
+﻿DirectSound.obj : error LNK2001: unresolved external symbol DirectSoundCreate8
+GameWindow.obj : error LNK2001: unresolved external symbol Direct3DCreate9
+GameWindow.obj : error LNK2001: unresolved external symbol D3DXLoadSurfaceFromFileW
+GameWindow.obj : error LNK2001: unresolved external symbol D3DXCreateSprite
+GameWindow.obj : error LNK2001: unresolved external symbol D3DXCreateFontW
+GameWindow.obj : error LNK2001: unresolved external symbol D3DXGetImageInfoFromFileW
+GameWindow.obj : error LNK2001: unresolved external symbol D3DXCreateTextureFromFileExW
+C:\Users\Bread\dev\SuperSnapeBox\x64\Release\game.exe : fatal error LNK1120: 7 unresolved externals
